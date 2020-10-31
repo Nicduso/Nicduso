@@ -10,7 +10,10 @@ I have always been enthusiastic about games, of the most diverse types. I am stu
 
 [![Bottom    Insta](https://dabuttonfactory.com/button.png?t=Instagram&f=Calibri-Bold&ts=18&tc=fff&hp=45&vp=20&w=100&h=50&c=round&bgt=gradient&bgc=f0f&ebgc=a64d79&bs=1&bc=999)    ](https://www.instagram.com/nicduso/)
 
------
+
+
+
+
 
 ## Olá! Eu me chamo Nicole! 👋🏾✌🏾
 
