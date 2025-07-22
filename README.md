@@ -1,26 +1,36 @@
+# Nicole Soares
 
+🎓 Estudante de Programação | 🎮 Entusiasta em Desenvolvimento de Jogos
 
+---
 
-## Hi! My name is Nicole! 👋🏾✌🏾
+## 👩‍💻 Sobre mim
 
-I have always been enthusiastic about games, of the most diverse types. I am studying Python on my own, where I intend to learn while I practice, taking down projects that I have been creating for some time.
+Sou formada em Administração, mas decidi migrar de área para seguir minha verdadeira paixão: **a computação**. Atualmente estudo programação com foco em diversas linguagens e tecnologias, explorando especialmente o universo de **desenvolvimento de jogos** — uma área que une minha paixão por criatividade e lógica.
 
-*Feel free to ask or offer help!*
+Também sou jogadora assídua de **RPG de mesa**, e acredito que contar histórias e resolver desafios em grupo se conecta muito com o que mais amo na programação: **criar soluções e experiências**.
 
-🌎 **You can find me at:** <img align="left" width="150" height="150" src="https://github.com/Nicduso/Nicduso/blob/main/images/astronauta.jpg?raw=true">
+---
 
-[![Bottom    Insta](https://dabuttonfactory.com/button.png?t=Instagram&f=Calibri-Bold&ts=18&tc=fff&hp=45&vp=20&w=100&h=50&c=round&bgt=gradient&bgc=f0f&ebgc=a64d79&bs=1&bc=999)    ](https://www.instagram.com/nicduso/)
-<br>
-<br>
-<br>
-<br>
-## Olá! Eu me chamo Nicole! 👋🏾✌🏾
+## 📚 Atualmente estudando
 
-Sempre me entusiasmei muito com jogos, dos mais diversos tipos.
-Estou estudando por conta própria Python, onde pretendo aprender enquanto pratico, tirando do papel projetos que venho idealizando há tempos.
+- 💻 Linguagens: `C`, `Java`, `JavaScript`, `PHP`, `Python`
+- 🌐 Tecnologias Web: `HTML`, `CSS`, `SQL`
+- 🎮 Game Dev: `C# para Unity`, `Blender` (modelagem e animação)
 
-*Fique à vontade para pedir ou oferecer ajuda!*
+---
 
-🌎 **Você também pode me encontrar:** <img align="left" width="150" height="150" src="https://github.com/Nicduso/Nicduso/blob/main/images/astronauta.jpg?raw=true">
+## 📈 Estatísticas
 
-[![Bottom    Insta](https://dabuttonfactory.com/button.png?t=Instagram&f=Calibri-Bold&ts=18&tc=fff&hp=45&vp=20&w=100&h=50&c=round&bgt=gradient&bgc=f0f&ebgc=a64d79&bs=1&bc=999)    ](https://www.instagram.com/nicduso/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolesoares&layout=compact&theme=default)
+![Nicole's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolesoares&show_icons=true&theme=default)
+
+---
+
+## 🔗 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicole%20Soares-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoleduartesoares/)
+
+---
+
+<!-- Você pode adicionar futuras seções aqui, como: Projetos em destaque, Certificações, etc. -->
