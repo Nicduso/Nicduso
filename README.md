@@ -20,11 +20,7 @@ Também sou jogadora assídua de **RPG de mesa**, e acredito que contar históri
 
 ---
 
-## 📈 Estatísticas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicduso&layout=compact&theme=default)
-
----
 
 ## 🔗 Vamos nos conectar?
 
