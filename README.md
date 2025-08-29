@@ -6,7 +6,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Sou formada em Administração, mas decidi migrar de área para seguir minha verdadeira paixão: **a computação**. Atualmente estudo programação com foco em diversas linguagens e tecnologias, explorando especialmente o universo de **desenvolvimento de jogos** — uma área que une minha paixão por criatividade e lógica.
+Sou formada em Administração, mas decidi migrar de área para seguir minha verdadeira paixão: **a computação**. Atualmente estudo programação com foco em diversas linguagens e tecnologias, mas gostaria de explorar especialmente o universo de **desenvolvimento de jogos** — uma área que une minha paixão por criatividade e lógica.
 
 Também sou jogadora assídua de **RPG de mesa**, e acredito que contar histórias e resolver desafios em grupo se conecta muito com o que mais amo na programação: **criar soluções e experiências**.
 
